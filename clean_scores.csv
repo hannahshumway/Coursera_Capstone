@@ -1,0 +1,46 @@
+,Name,Walk Score,Transit Score,Bike Score,Composite
+0,"Howard University, Le Droit Park, Cardozo/Shaw",93,81,89,87.66666
+1,"Dupont Circle, Connecticut Avenue/K Street",98,89,95,94
+3,"Shaw, Logan Circle",97,90,95,94
+4,"West End, Foggy Bottom, GWU",95,91,80,88.66666667
+5,"Kalorama Heights, Adams Morgan, Lanier Heights",95,81,88,88
+6,"Union Station, Stanton Park, Kingman Park",95,80,95,90
+7,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",94,82,90,88.66666667
+8,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",93,100,92,95
+9,"Edgewood, Bloomingdale, Truxton Circle, Eckington",89,77,80,82
+10,Mount Pleasant,89,79,81,83
+11,"Near Southeast, Navy Yard",89,84,87,86.66666667
+13,Kalorama,87,75,82,81.33333333
+14,"Capitol Hill, Lincoln Park",86,81,92,86.33333333
+15,Eckington,85,73,90,82.66666667
+16,"Brightwood Park, Crestwood, Petworth",83,68,76,76
+17,"Ivy City, Arboretum, Trinidad, Carver Langston",82,59,68,69.66666667
+18,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",82,78,89,83
+20,Kingman Park,80,69,93,80.66666667
+21,"Georgetown, Burleith/Hillandale",79,61,71,70.33333333
+22,"Friendship Heights, American University Park, Tenleytown",79,64,68,70.33333333
+23,"Takoma, Brightwood, Manor Park",77,66,65,69.33333333
+25,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",74,67,72,71
+26,"Brookland, Brentwood, Langdon",74,69,74,72.33333333
+27,"Cathedral Heights, McLean Gardens, Glover Park",73,54,55,60.66666667
+29,Brentwood - Langdon,71,61,57,63
+30,McMillan Reservoir,70,70,71,70.33333333
+31,"North Cleveland Park, Forest Hills, Van Ness",69,62,52,61
+32,"Colonial Village, Shepherd Park, North Portal Estates",67,72,52,63.66666667
+33,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",67,74,55,65.33333333
+34,"River Terrace, Benning, Greenway, Dupont Park",64,77,55,65.33333333
+35,Historic Anacostia,61,67,44,57.33333333
+36,"Capitol View, Marshall Heights, Benning Heights",61,68,44,57.66666667
+37,"Congress Heights, Bellevue, Washington Highlands",59,62,38,53
+38,Randle Heights,57,62,43,54
+39,"Woodridge, Fort Lincoln, Gateway",57,52,46,51.66666667
+40,"Hawthorne, Barnaby Woods, Chevy Chase",57,51,53,53.66666667
+41,Spring Valley,57,42,47,48.66666667
+42,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",54,57,40,50.33333333
+43,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",53,59,44,52
+44,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",52,39,53,48
+45,"North Michigan Park, Michigan Park, University Heights",51,67,57,58.33333333
+46,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",50,69,52,57
+47,"Mayfair, Hillbrook, Mahaning Heights",48,72,67,62.33333333
+48,Potomac Yard - Potomac Greens,30,45,18,31
+49,"Douglas, Shipley Terrace",63,68,40,57
